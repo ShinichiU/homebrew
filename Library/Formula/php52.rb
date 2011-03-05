@@ -8,7 +8,7 @@ class Php52 <Formula
   url 'http://jp2.php.net/get/php-5.2.17.tar.gz/from/jp.php.net/mirror'
   homepage 'http://php.net/'
   md5 '04d321d5aeb9d3a051233dbd24220ef1'
-  version '5.2.16'
+  version '5.2.17'
 
   # So PHP extensions don't report missing symbols
   skip_clean ['bin', 'sbin']
